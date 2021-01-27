@@ -1,0 +1,17 @@
+div{
+    margin: auto;
+    width: 1000px;
+    font-family: Tahoma;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+fieldset{
+    width: 500px;
+    margin-right: 100px;
+}
+legend{
+    font-size: 30px;
+    font-weight: bolder;
+}

@@ -1,0 +1,20 @@
+div
+{
+    margin: auto; /* canh bố cục đều 2 bên */
+    width: 800px;
+    font-family: Tahoma;
+    font-size:11px;
+}
+.text-fun{
+    color: green;
+text-decoration-line: underline;
+}
+.text-angry{
+    color: red;
+}
+ul{
+    font-family: Consolas;
+}
+li{
+    font-family: Consolas;
+}
